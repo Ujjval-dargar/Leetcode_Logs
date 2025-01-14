@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0268-missing-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1502-construct-k-palindrome-strings) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3455-minimum-length-of-string-after-operations) |
 ## String
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0485-max-consecutive-ones) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0268-missing-number) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
