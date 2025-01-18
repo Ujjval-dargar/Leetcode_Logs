@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2792-neighboring-bitwise-xor) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Two Pointers
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Union Find
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0073-set-matrix-zeroes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Brainteaser
 |  |
 | ------- |
