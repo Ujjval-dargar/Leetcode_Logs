@@ -14,14 +14,13 @@ public:
         vector<int> rows(m, 0);
         vector<int> cols(n, 0);
 
-        for (int i = 0; i < n * m; ++i) {
+        int t = n * m;
+
+        for (int i = 0; i < t; ++i) {
             int r = mp[arr[i]][0];
             int c = mp[arr[i]][1];
 
-            rows[r]++;
-            cols[c]++;
-
-            if (rows[r] == n || cols[c] == m) {
+            if (++rows[r] == n || ++cols[c] == m) {
                 return i;
             }
         }
