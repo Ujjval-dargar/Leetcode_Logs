@@ -4,7 +4,7 @@ public:
         int m = mat.size();
         int n = mat[0].size();
 
-        unordered_map<int, pair<int, int>> mp;
+        map<int, pair<int, int>> mp;
         for (int i = 0; i < m; ++i) {
             for (int j = 0; j < n; ++j) {
                 mp[mat[i][j]] = {i, j};
