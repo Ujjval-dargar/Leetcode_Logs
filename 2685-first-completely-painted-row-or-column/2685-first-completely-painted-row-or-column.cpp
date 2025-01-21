@@ -20,9 +20,9 @@ public:
             int r = mp[arr[i]][0];
             int c = mp[arr[i]][1];
 
-            if (++rows[r] == n || ++cols[c] == m) {
+            if (++rows[r] == n || ++cols[c] == m) 
                 return i;
-            }
+            
         }
 
         return -1;
