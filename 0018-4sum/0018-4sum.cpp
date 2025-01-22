@@ -12,16 +12,11 @@ public:
 
         for (int i = 0; i < n; ++i) {
 
-            if (nums[i]>target) continue;
-
             while (i - 1 >= 0 && i < n && nums[i - 1] == nums[i]) {
                 i++;
             }
 
             for (int j = i + 1; j < n; ++j) {
-                
-                if (nums[i]+nums[j]>target) continue;
-                
 
                 while (j > i + 1 && j < n && nums[j - 1] == nums[j]) {
                     j++;
@@ -31,15 +26,18 @@ public:
                 int l = n - 1;
 
                 while (k < l) {
-                    long long s = nums[i] + nums[j] + nums[k] + nums[l];
+
+                    long long t1 = nums[i] + nums[j];
+                    long long t2 = nums[k] + nums[l];
+
+                    long long s = t1 + t2;
 
                     if (s == target) {
                         ans.push_back({nums[i], nums[j], nums[k], nums[l]});
                         k++;
                         while (k < n && nums[k - 1] == nums[k])
                             k++;
-                    } 
-                    else if (s < target)
+                    } else if (s < target)
                         k++;
                     else
                         l--;
