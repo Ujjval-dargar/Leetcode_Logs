@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1502-construct-k-palindrome-strings) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Greedy
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0560-subarray-sum-equals-k) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1435-xor-queries-of-a-subarray) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2145-grid-game](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2145-grid-game) |
 ## Breadth-First Search
 |  |
