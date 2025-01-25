@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2685-first-completely-painted-row-or-column](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2792-neighboring-bitwise-xor) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Two Pointers
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0268-missing-number) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Stack
 |  |
 | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0128-longest-consecutive-sequence) |
 | [1396-count-servers-that-communicate](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1396-count-servers-that-communicate) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Matrix
 |  |
 | ------- |
