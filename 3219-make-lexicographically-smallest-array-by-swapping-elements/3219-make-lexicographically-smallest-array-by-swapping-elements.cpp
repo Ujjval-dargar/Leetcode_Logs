@@ -7,8 +7,8 @@ public:
         vector<int> sorted = nums;
         sort(sorted.begin(), sorted.end());
 
-        map<int, queue<int>> group;
-        map<int, int> mp;
+        unordered_map<int, queue<int>> group;
+        unordered_map<int, int> mp;
 
         group[0].push(sorted[0]);
         mp[sorted[0]] = 0;
@@ -23,7 +23,6 @@ public:
         }
 
         for (int i = 0; i < n; ++i) {
-
             int t = group[mp[nums[i]]].front();
             group[mp[nums[i]]].pop();
             ans.push_back(t);
