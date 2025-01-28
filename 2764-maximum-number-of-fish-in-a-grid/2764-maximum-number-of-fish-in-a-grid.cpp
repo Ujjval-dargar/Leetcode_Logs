@@ -5,7 +5,7 @@ public:
         int n = grid[0].size();
         queue<pair<int, int>> q;
         q.push({i, j});
-        visited[i][j] = true; // Mark as visited when added to the queue
+        visited[i][j] = true;
 
         int cnt = 0;
         vector<vector<int>> dirn = {{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
@@ -24,7 +24,7 @@ public:
                 if (ni >= 0 && nj >= 0 && ni < m && nj < n &&
                     !visited[ni][nj] && grid[ni][nj] > 0) {
                     q.push({ni, nj});
-                    visited[ni][nj] = true; // Mark as visited here
+                    visited[ni][nj] = true;
                 }
             }
         }
