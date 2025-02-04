@@ -2,8 +2,9 @@ class Solution {
 public:
     int check(vector<int>& nums, int d) {
         int sum = 0;
-        for (int i : nums) {
-            sum += ceil((double)i / (double)d);
+        int n = nums.size();
+        for (int i = 0; i < n; ++i) {
+            sum += ceil((double)nums[i] / (double)d);
         }
         return sum;
     }
