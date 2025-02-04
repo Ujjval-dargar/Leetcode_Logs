@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1502-construct-k-palindrome-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2032-largest-odd-number-in-string](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2032-largest-odd-number-in-string) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Greedy
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0011-container-with-most-water) |
 | [1502-construct-k-palindrome-strings](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1502-construct-k-palindrome-strings) |
+| [2032-largest-odd-number-in-string](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2032-largest-odd-number-in-string) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2509-minimize-xor](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2509-minimize-xor) |
 ## Counting
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0268-missing-number) |
+| [2032-largest-odd-number-in-string](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2032-largest-odd-number-in-string) |
 ## Binary Search
 |  |
 | ------- |
