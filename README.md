@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2032-largest-odd-number-in-string](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2032-largest-odd-number-in-string) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [3447-clear-digits](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Greedy
 |  |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0042-trapping-rain-water) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [3447-clear-digits](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3447-clear-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3447-clear-digits) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Union Find
 |  |
