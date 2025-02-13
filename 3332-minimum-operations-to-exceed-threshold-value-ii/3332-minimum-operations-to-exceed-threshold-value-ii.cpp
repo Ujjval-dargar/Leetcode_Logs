@@ -1,7 +1,6 @@
 class Solution {
 public:
     int minOperations(vector<int>& nums, int k) {
-        int n = nums.size();
         int ans = 0;
 
         priority_queue<long long, vector<long long>, greater<long long>> pq(
