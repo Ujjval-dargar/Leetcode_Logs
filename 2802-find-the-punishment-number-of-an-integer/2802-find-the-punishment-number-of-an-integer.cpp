@@ -1,27 +1,40 @@
+vector<int> v(1001,0);
+bool f=false;
 class Solution {
 public:
 
-    bool check(int n, int k) {
-        if (n == k) {
-            return true;
-        }
-        if (k <= 0 || n < k) {
-            return false;
-        }
+    bool canPartition(string s, int target) {
+        if (s == "" && target == 0) return true;
+        if (target < 0) return false;
+        bool ans = false;
+        for (int i = 0; i < min(4,(int)s.size()); i++) {
+            string left = s.substr(0, i + 1);
+            string right = s.substr(i + 1);
+            int leftNum = stoi(left);
 
-        return check(n / 10, k - n % 10) || 
-               check(n / 100, k - n % 100) ||
-               check(n / 1000, k - n % 1000);
-    }
-
-    int punishmentNumber(int n) {
-        int ans = 0;
-
-        for (int i = 1; i <= n; ++i) {
-            if (check(i * i, i)) {
-                ans += i * i;
+            bool isPossible = canPartition(right, target - leftNum);
+            if (isPossible) {
+                ans = true;
+                break;
             }
         }
         return ans;
+    }
+    void fill(){
+        int sum = 0;
+        for (int num = 1; num <= 1000; num++) {
+            int sqr = num * num;
+            if (canPartition(to_string(sqr), num)) {
+                sum += sqr;
+            }
+            v[num]=sum;
+        }
+        f=true;
+    }
+    int punishmentNumber(int n) {
+        if(!f){
+            fill();           
+        }
+        return v[n];
     }
 };
