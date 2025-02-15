@@ -1,13 +1,15 @@
-vector<int> v(1001,0);
-bool f=false;
+vector<int> v(1001, 0);
+bool f = false;
+
 class Solution {
 public:
-
     bool canPartition(string s, int target) {
-        if (s == "" && target == 0) return true;
-        if (target < 0) return false;
+        if (s == "" && target == 0)
+            return true;
+        if (target < 0)
+            return false;
         bool ans = false;
-        for (int i = 0; i < min(4,(int)s.size()); i++) {
+        for (int i = 0; i < min(4, (int)s.size()); i++) {
             string left = s.substr(0, i + 1);
             string right = s.substr(i + 1);
             int leftNum = stoi(left);
@@ -20,21 +22,21 @@ public:
         }
         return ans;
     }
-    void fill(){
+    void fill(int n) {
         int sum = 0;
-        for (int num = 1; num <= 1000; num++) {
+        for (int num = 1; num <= n; num++) {
             int sqr = num * num;
             if (canPartition(to_string(sqr), num)) {
                 sum += sqr;
             }
-            v[num]=sum;
+            v[num] = sum;
         }
-        f=true;
+        f = true;
     }
     int punishmentNumber(int n) {
-        if(!f){
-            fill();           
-        }
+
+        fill(n);
+
         return v[n];
     }
 };
