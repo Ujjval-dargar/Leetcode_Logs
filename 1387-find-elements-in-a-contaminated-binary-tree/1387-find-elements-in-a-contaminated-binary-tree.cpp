@@ -22,6 +22,8 @@ public:
         }
 
         mp[val] = true;
+
+        root->val = val;
         helper(root->left, 2 * val + 1);
         helper(root->right, 2 * val + 2);
     }
