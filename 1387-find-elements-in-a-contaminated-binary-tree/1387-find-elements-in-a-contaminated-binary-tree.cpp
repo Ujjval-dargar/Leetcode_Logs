@@ -13,7 +13,6 @@
 class FindElements {
 public:
     unordered_map<int, bool> mp;
-    TreeNode* tree = nullptr;
 
     FindElements(TreeNode* root) { helper(root,0); }
 
