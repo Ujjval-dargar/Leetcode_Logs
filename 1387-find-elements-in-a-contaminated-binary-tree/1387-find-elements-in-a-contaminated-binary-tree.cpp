@@ -15,27 +15,16 @@ public:
     unordered_map<int, bool> mp;
     TreeNode* tree = nullptr;
 
-    FindElements(TreeNode* root) { helper(root); }
+    FindElements(TreeNode* root) { helper(root,0); }
 
-    void helper(TreeNode* root) {
-        if (tree == nullptr) {
-            tree = root;
-            root->val = 0;
+    void helper(TreeNode* root, int val) {
+        if (root == nullptr) {
+            return;
         }
 
-        cout << root->val << endl;
-
-        mp[root->val] = true;
-
-        if (root->left != nullptr) {
-            root->left->val = 2 * root->val + 1;
-            helper(root->left);
-        }
-
-        if (root->right != nullptr) {
-            root->right->val = 2 * root->val + 2;
-            helper(root->right);
-        }
+        mp[val] = true;
+        helper(root->left, 2 * val + 1);
+        helper(root->right, 2 * val + 2);
     }
 
     bool find(int target) { return mp[target]; }
