@@ -4,12 +4,12 @@ public:
         int n = blocks.size();
         int ans = 0;
 
-        if (k==1){
-            for (int i=0;i<n;++i){
-                if (blocks[i]=='B')return 0;
-            }
-            return 1;
-        }
+        // if (k==1){
+        //     for (int i=0;i<n;++i){
+        //         if (blocks[i]=='B')return 0;
+        //     }
+        //     return 1;
+        // }
 
         for (int i = 0; i < k; ++i) {
             ans += blocks[i] == 'W';
