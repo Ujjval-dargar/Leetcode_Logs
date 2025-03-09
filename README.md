@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3463-alternating-groups-i](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3463-alternating-groups-i) |
+| [3483-alternating-groups-ii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3483-alternating-groups-ii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Two Pointers
@@ -398,4 +399,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3463-alternating-groups-i](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3463-alternating-groups-i) |
+| [3483-alternating-groups-ii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3483-alternating-groups-ii) |
 <!---LeetCode Topics End-->
