@@ -16,7 +16,6 @@ public:
             }
 
             if (r - l + 1 == k) {
-                cout<<l<<" "<<r<<endl;
                 ans++;
                 l++;
             }
