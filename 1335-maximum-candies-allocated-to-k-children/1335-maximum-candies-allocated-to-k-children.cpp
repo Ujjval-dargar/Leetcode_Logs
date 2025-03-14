@@ -1,15 +1,15 @@
 class Solution {
 public:
+    bool check(vector<int>& candies, long long k, long long m) {
+        long long cnt = 0;
+        int n = candies.size();
+        for (int i = 0; i < n; ++i) {
+            if (cnt >= k)
+                return true;
 
-    bool check(vector<int>& candies,long long k,long long m){
-        long long cnt=0;
-        int n=candies.size();
-        for (int i=0;i<n;++i){
-            if (cnt>=k) return true;
-
-            cnt+=candies[i]/m;
+            cnt += candies[i] / m;
         }
-        return (cnt>=k);
+        return (cnt >= k);
     }
 
     int maximumCandies(vector<int>& candies, long long k) {
@@ -18,7 +18,7 @@ public:
         for (int i = 1; i < n; ++i) {
             mx = max(mx, candies[i]);
         }
-        
+
         int l = 1;
         int r = mx;
         int ans = 0;
@@ -26,9 +26,7 @@ public:
         while (l <= r) {
             int mid = ceil((double)(l + r) / 2.0);
 
-            cout<<l<<" "<<mid<<" "<<r<<endl;
             if (check(candies, k, mid)) {
-                cout<<mid<<endl;
                 l = mid + 1;
                 ans = mid;
             } else {
