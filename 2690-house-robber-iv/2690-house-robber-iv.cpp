@@ -8,7 +8,6 @@ public:
                 cnt++;
                 i++;
             }
-            
         }
 
         return (cnt >= k);
@@ -17,9 +16,10 @@ public:
     int minCapability(vector<int>& nums, int k) {
         int n = nums.size();
 
+        int mn = *min_element(nums.begin(), nums.end());
         int mx = *max_element(nums.begin(), nums.end());
 
-        int low = 1;
+        int low = mn;
         int high = mx;
         int ans = mx;
 
