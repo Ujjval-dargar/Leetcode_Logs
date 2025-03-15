@@ -8,6 +8,8 @@ public:
                 cnt++;
                 i++;
             }
+
+            if (cnt>=k) return true;
         }
 
         return (cnt >= k);
