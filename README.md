@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0268-missing-number) |
 | [0650-2-keys-keyboard](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0650-2-keys-keyboard) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0152-maximum-product-subarray) |
@@ -437,4 +439,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-alternating-groups-ii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
