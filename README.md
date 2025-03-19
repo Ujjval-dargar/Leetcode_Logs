@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3463-alternating-groups-i](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3463-alternating-groups-i) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3643-zero-array-transformation-ii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2792-neighboring-bitwise-xor) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Sorting
 |  |
 | ------- |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2145-grid-game](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2145-grid-game) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3643-zero-array-transformation-ii) |
 ## Breadth-First Search
 |  |
@@ -447,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2478-longest-nice-subarray) |
 | [3463-alternating-groups-i](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3463-alternating-groups-i) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
@@ -454,4 +458,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0062-unique-paths) |
+## Queue
+|  |
+| ------- |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
