@@ -52,8 +52,6 @@ public:
         vector<int> done(n, false);
         for (int i = 0; i < n; ++i) {
             int p = findParent(i);
-            cout << i << " " << p << " " << size[i] << " " << edgeCount[i]
-                 << endl;
             if (!done[p]) {
                 done[p] = true;
                 int c = size[p];
