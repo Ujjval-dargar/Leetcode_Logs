@@ -34,7 +34,6 @@ public:
         int d = 0;
 
         for (int i = 0; i < n; ++i) {
-            // cout << merged[i][0] << " " << merged[i][1] << endl;
             d += merged[i][1] - merged[i][0] + 1;
         }
 
