@@ -1,34 +1,27 @@
 class Solution {
 public:
-    unordered_map<string, bool> mp;
+    unordered_map<string, int> mp;
 
-    bool helper(string s) {
-
-        if (s=="") return true;
-
-        if (mp.find(s) != mp.end()) return mp[s];
+    bool wordBreak(string s, vector<string>& wordDict) {
+        for (string s : wordDict) {
+            mp[s] = true;
+        }
 
         int n = s.size();
+        vector<bool> dp(n + 1, false);
+        dp[0] = true;
 
-        for (int i = 0; i < n; ++i) {
-            string s1 = s.substr(0, i + 1);
-            string s2 = s.substr(i+1);
+        for (int i = 1; i <= n; ++i) {
             
-            if (mp[s1]) {
-                if (helper(s2)) {
-                    return mp[s2] = true;
+            for (int j = 0; j < i; ++j) {
+
+                if (dp[j] && mp[s.substr(j, i - j)]) {
+                    dp[i] = true;
+                    break;
                 }
             }
         }
 
-        return mp[s] = false;
-    }
-
-    bool wordBreak(string s, vector<string>& wordDict) {
-
-        for (string t : wordDict) {
-            mp[t] = true;
-        }
-        return helper(s);
+        return dp[n];
     }
 };
