@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0268-missing-number) |
+| [0461-hamming-distance](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0461-hamming-distance) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1435-xor-queries-of-a-subarray) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2478-longest-nice-subarray) |
