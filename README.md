@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0560-subarray-sum-equals-k) |
 | [1160-letter-tile-possibilities](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1160-letter-tile-possibilities) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0242-valid-anagram) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0516-longest-palindromic-subsequence) |
 | [1078-remove-outermost-parentheses](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1078-remove-outermost-parentheses) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0455-assign-cookies) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
