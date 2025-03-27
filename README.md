@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0014-longest-common-prefix) |
 | [0127-word-ladder](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0151-reverse-words-in-a-string) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0139-word-break) |
 ## Memoization
 |  |
