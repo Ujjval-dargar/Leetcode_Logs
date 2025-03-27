@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0120-triangle) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0231-power-of-two) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0078-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
