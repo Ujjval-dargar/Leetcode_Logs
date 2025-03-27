@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0268-missing-number) |
 | [0650-2-keys-keyboard](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0650-2-keys-keyboard) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1477-product-of-the-last-k-numbers) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0268-missing-number) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1435-xor-queries-of-a-subarray) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2308-divide-array-into-equal-pairs) |
@@ -499,4 +501,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0139-word-break) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
