@@ -35,11 +35,9 @@ public:
 
             ListNode* next = curr->next;
             if (i % 2 == 0) {
-                cout<<curr->val<<" "<<"even"<<endl;
                 evenCurr->next = curr;
                 evenCurr = evenCurr->next;
             } else {
-                 cout<<curr->val<<" "<<"odd"<<endl;
                 oddCurr->next = curr;
                 oddCurr = oddCurr->next;
             }
@@ -47,10 +45,9 @@ public:
             i++;
         }
 
-        evenCurr->next = nullptr;
-        oddCurr->next = NULL;
-
+        oddCurr->next = nullptr;
         evenCurr->next = oddHead;
+        
         return evenHead;
     }
 };
