@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0650-2-keys-keyboard) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1477-product-of-the-last-k-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2032-largest-odd-number-in-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2448-count-number-of-bad-pairs) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0268-missing-number) |
 | [0461-hamming-distance](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0461-hamming-distance) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1435-xor-queries-of-a-subarray) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2478-longest-nice-subarray](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2478-longest-nice-subarray) |
@@ -506,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-letter-tile-possibilities](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2107-find-unique-binary-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Tree
@@ -539,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0062-unique-paths) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Queue
 |  |
 | ------- |
@@ -571,4 +576,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
