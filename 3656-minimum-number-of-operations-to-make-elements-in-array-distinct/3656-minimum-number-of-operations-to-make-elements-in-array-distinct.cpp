@@ -11,8 +11,9 @@ public:
 
         int t = -1;
         for (int i = 1; i <= 100; ++i) {
-            if (freq[i].size() >= 2) {
-                t = max(t, freq[i][freq[i].size() - 2]);
+            int m = freq[i].size();
+            if (m >= 2) {
+                t = max(t, freq[i][m - 2]);
             }
         }
 
