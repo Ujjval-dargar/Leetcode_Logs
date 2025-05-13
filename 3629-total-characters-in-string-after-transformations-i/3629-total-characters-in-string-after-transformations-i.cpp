@@ -10,6 +10,7 @@ public:
         }
 
         for (int i = 0; i < t; ++i) {
+
             vector<long long> temp(26, 0);
 
             for (int j = 0; j < 26; ++j) {
@@ -17,16 +18,17 @@ public:
                 if (j != 25) {
                     temp[j + 1] = (temp[j + 1] % mod + cnt[j] % mod) % mod;
                 } else {
-                    temp[0] = (temp[0] % mod + cnt[j] % mod) % mod;
-                    temp[1] = (temp[1] % mod + cnt[j] % mod) % mod;
+                    temp[0] = (temp[0] + cnt[j]) % mod;
+                    temp[1] = (temp[1] + cnt[j]) % mod;
                 }
             }
 
             cnt = temp;
         }
+
         int ans = 0;
         for (int i = 0; i < 26; ++i) {
-            ans = (ans % mod + cnt[i] % mod) % mod;
+            ans = (ans + cnt[i]) % mod;
         }
         return ans % mod;
     }
