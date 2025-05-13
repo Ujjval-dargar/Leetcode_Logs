@@ -16,7 +16,7 @@ public:
             for (int j = 0; j < 26; ++j) {
 
                 if (j != 25) {
-                    temp[j + 1] = (temp[j + 1] % mod + cnt[j] % mod) % mod;
+                    temp[j + 1] = (temp[j + 1] + cnt[j]) % mod;
                 } else {
                     temp[0] = (temp[0] + cnt[j]) % mod;
                     temp[1] = (temp[1] + cnt[j]) % mod;
