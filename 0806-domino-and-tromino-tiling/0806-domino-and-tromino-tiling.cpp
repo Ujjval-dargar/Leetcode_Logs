@@ -18,7 +18,7 @@ public:
     }
 
     int numTilings(int n) {
-        vector<vector<long long>> dp = {
+        vector<vector<long long>> cnst = {
             {1, 0, 1, 1}, 
             {2, 1, 0, 0}, 
             {1, 0, 0, 0}, 
@@ -31,9 +31,9 @@ public:
         
         while (n) {
             if (n % 2) {
-                ans = matrix_mul(ans, dp);
+                ans = matrix_mul(ans, cnst);
             }
-            dp = matrix_mul(dp, dp);
+            cnst = matrix_mul(cnst, cnst);
             n /= 2;
         }
 
