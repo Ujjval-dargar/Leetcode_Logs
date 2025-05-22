@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0213-house-robber-ii) |
+| [0220-contains-duplicate-iii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0239-sliding-window-maximum) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0169-majority-element) |
+| [0220-contains-duplicate-iii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0268-missing-number) |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0220-contains-duplicate-iii) |
 | [0493-reverse-pairs](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0493-reverse-pairs) |
 | [2434-design-a-number-container-system](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2434-design-a-number-container-system) |
 ## Topological Sort
@@ -581,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0076-minimum-window-substring) |
+| [0220-contains-duplicate-iii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0239-sliding-window-maximum) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1034-subarrays-with-k-different-integers) |
@@ -619,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0220-contains-duplicate-iii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0220-contains-duplicate-iii) |
 | [0451-sort-characters-by-frequency](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0451-sort-characters-by-frequency) |
 ## Linked List
 |  |
