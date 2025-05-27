@@ -5,12 +5,7 @@ public:
         if (n % groupSize)
             return false;
 
-        sort(hand.begin(),hand.end());
-
-        for (int i:hand){
-            cout<<i<<" ";
-        }
-        cout<<endl;
+        sort(hand.begin(), hand.end());
 
         vector<bool> visited(n, false);
         for (int i = 0; i < n; ++i) {
@@ -28,11 +23,6 @@ public:
                 }
                 j++;
             }
-
-            // cout << cnt << "__" << i << endl;
-            // for (bool k : visited)
-            //     cout << k << " ";
-            // cout << endl;
 
             if (cnt != groupSize) {
                 return false;
