@@ -45,9 +45,7 @@ public:
                 l = mid + 1;
             }
         }
-        cout << endl;
-        cout << endl;
-        cout << check(weights, 2, 4) << endl;
+
         return ans;
     }
 };
