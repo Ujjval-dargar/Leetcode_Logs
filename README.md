@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0967-minimum-falling-path-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1036-rotting-oranges) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1293-three-consecutive-odds](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1325-path-with-maximum-probability) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1486-find-the-distance-value-between-two-arrays) |
