@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0560-subarray-sum-equals-k) |
+| [0876-hand-of-straights](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0876-hand-of-straights) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1160-letter-tile-possibilities) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0678-valid-parenthesis-string) |
+| [0876-hand-of-straights](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0876-hand-of-straights) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1502-construct-k-palindrome-strings](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1502-construct-k-palindrome-strings) |
 | [2032-largest-odd-number-in-string](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2032-largest-odd-number-in-string) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0792-binary-search) |
+| [0876-hand-of-straights](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0876-hand-of-straights) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0907-koko-eating-bananas) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0966-binary-subarrays-with-sum) |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0368-largest-divisible-subset) |
 | [0451-sort-characters-by-frequency](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0455-assign-cookies) |
+| [0876-hand-of-straights](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0876-hand-of-straights) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2215-finding-3-digit-even-numbers) |
