@@ -1,27 +1,21 @@
-
 class Solution {
 public:
-    vector<int> fetch(int a, vector<int>& nums) {
-
-        vector<int> ans;
-        for (int i = 0; i <= 12; ++i) {
-            if (((a >> i) & 1) == 1) {
-                ans.push_back(nums[i]);
-            }
+    void f(vector<int>& nums, int i, vector<vector<int>>& ans,
+           vector<int> curr) {
+        if (i == nums.size()) {
+            ans.push_back(curr);
+            return;
         }
 
-        return ans;
+        f(nums, i + 1, ans, curr);
+        curr.push_back(nums[i]);
+        f(nums, i + 1, ans, curr);
+        curr.pop_back();
     }
 
     vector<vector<int>> subsets(vector<int>& nums) {
-        int n = nums.size();
-        int s = (1 << n);
-
         vector<vector<int>> ans;
-        for (int i = 0; i < s; ++i) {
-            ans.push_back(fetch(i, nums));
-        }
-
+        f(nums, 0, ans, {});
         return ans;
     }
 };
