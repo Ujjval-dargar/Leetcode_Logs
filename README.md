@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2047-find-a-peak-element-ii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2047-find-a-peak-element-ii) |
 | [2048-build-array-from-permutation](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2048-build-array-from-permutation) |
 | [2102-find-the-middle-index-in-array](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2102-find-the-middle-index-in-array) |
 | [2107-find-unique-binary-string](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2107-find-unique-binary-string) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1646-kth-missing-positive-number) |
+| [2047-find-a-peak-element-ii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2047-find-a-peak-element-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2690-house-robber-iv) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1876-map-of-highest-peak) |
+| [2047-find-a-peak-element-ii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2047-find-a-peak-element-ii) |
 | [2145-grid-game](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2685-first-completely-painted-row-or-column) |
