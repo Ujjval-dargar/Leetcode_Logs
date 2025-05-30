@@ -1,46 +1,46 @@
 class Solution {
 public:
-    int findLow(vector<int>& nums, int target) {
-        int low = 0;
-        int high = nums.size() - 1;
-        while (low <= high) {
-            int mid = (high - low) / 2 + low;
-            if (nums[mid] == target) {
-                if ((mid - 1 >= 0 && nums[mid - 1] != target) || mid == 0)
-                    return mid;
-                else
-                    high = mid - 1;
-            } else if (nums[mid] < target)
-                low = mid + 1;
-            else
-                high = mid - 1;
+    int f1(vector<int>& nums, int k) {
+        int n = nums.size();
+        int l = 0;
+        int r = n - 1;
+        int ans = -1;
+        while (l <= r) {
+            int m = (r - l) / 2 + l;
+            if (nums[m] == k) {
+                ans = m;
+                r = m - 1;
+            } else if (nums[m] < k) {
+                l = m + 1;
+            } else {
+                r = m - 1;
+            }
         }
 
-        return -1;
+        return ans;
     }
 
-    int findHigh(vector<int>& nums, int target) {
+    int f2(vector<int>& nums, int k) {
         int n = nums.size();
-        int low = 0;
-        int high = nums.size() - 1;
-        while (low <= high) {
-            int mid = (high - low) / 2 + low;
-            if (nums[mid] == target) {
-                if ((mid + 1 < n && nums[mid + 1] != target) || mid == n-1) {
-                    return mid;
-                } else {
-                    low = mid + 1;
-                }
-            } else if (nums[mid] < target)
-                low = mid + 1;
-            else
-                high = mid - 1;
+        int l = 0;
+        int r = n - 1;
+        int ans = -1;
+        while (l <= r) {
+            int m = (r - l) / 2 + l;
+            if (nums[m] == k) {
+                ans = m;
+                l = m + 1;
+            } else if (nums[m] < k) {
+                l = m + 1;
+            } else {
+                r = m - 1;
+            }
         }
 
-        return -1;
+        return ans;
     }
 
     vector<int> searchRange(vector<int>& nums, int target) {
-        return {findLow(nums, target), findHigh(nums, target)};
+        return {f1(nums,target),f2(nums,target)};
     }
 };
