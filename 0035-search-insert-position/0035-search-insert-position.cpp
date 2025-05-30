@@ -1,18 +1,19 @@
 class Solution {
 public:
     int searchInsert(vector<int>& nums, int target) {
-        int low = 0;
-        int high = nums.size() - 1;
-        while (low <= high) {
-            int mid = (high - low) / 2 + low;
-            if (nums[mid] == target)
-                return mid;
-            else if (nums[mid] < target)
-                low = mid + 1;
-            else
-                high = mid - 1;
+        int l=0;
+        int r=nums.size()-1;
+        int ans =nums.size();
+        while (l<=r){
+            int m=(r-l)/2+l;
+            // cout<<m<<" "<<nums[m]<<endl;
+            if (nums[m]>=target){
+                ans=m;
+                r=m-1;
+            }else{
+                l=m+1;
+            }
         }
-        
-        return low;
+        return ans;
     }
 };
