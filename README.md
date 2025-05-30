@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0416-partition-equal-subset-sum) |
+| [0436-find-right-interval](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0436-find-right-interval) |
 | [0455-assign-cookies](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0493-reverse-pairs) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0410-split-array-largest-sum) |
+| [0436-find-right-interval](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0436-find-right-interval) |
 | [0493-reverse-pairs](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0792-binary-search) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0368-largest-divisible-subset) |
+| [0436-find-right-interval](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0436-find-right-interval) |
 | [0451-sort-characters-by-frequency](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0455-assign-cookies) |
 | [0876-hand-of-straights](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0876-hand-of-straights) |
