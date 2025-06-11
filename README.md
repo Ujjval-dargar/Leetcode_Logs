@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0516-longest-palindromic-subsequence) |
@@ -589,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0337-house-robber-iii) |
 | [0386-lexicographical-numbers](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0547-number-of-provinces) |
@@ -645,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0078-subsets) |
+| [0257-binary-tree-paths](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0257-binary-tree-paths) |
 | [1160-letter-tile-possibilities](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -662,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0337-house-robber-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -678,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0337-house-robber-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
