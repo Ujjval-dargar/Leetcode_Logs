@@ -397,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0042-trapping-rain-water) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0145-binary-tree-postorder-traversal) |
 | [0227-basic-calculator-ii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0227-basic-calculator-ii) |
 | [0402-remove-k-digits](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0678-valid-parenthesis-string) |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0145-binary-tree-postorder-traversal) |
 | [0337-house-robber-iii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0337-house-robber-iii) |
 | [0386-lexicographical-numbers](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0547-number-of-provinces) |
@@ -635,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0145-binary-tree-postorder-traversal) |
 | [0337-house-robber-iii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0337-house-robber-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -642,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0145-binary-tree-postorder-traversal) |
 | [0337-house-robber-iii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0337-house-robber-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1093-recover-a-tree-from-preorder-traversal) |
