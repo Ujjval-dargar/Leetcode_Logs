@@ -546,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0407-trapping-rain-water-ii) |
 | [0547-number-of-provinces](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0547-number-of-provinces) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -615,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0337-house-robber-iii) |
 | [0386-lexicographical-numbers](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0547-number-of-provinces) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -700,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0337-house-robber-iii) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -729,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0337-house-robber-iii) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0789-kth-largest-element-in-a-stream) |
