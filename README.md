@@ -701,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0337-house-robber-iii) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -729,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0337-house-robber-iii) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -815,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0173-binary-search-tree-iterator) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Iterator
 |  |
