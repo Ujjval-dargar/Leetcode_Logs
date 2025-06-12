@@ -16,27 +16,10 @@ public:
         if (!root)
             return new TreeNode(val);
 
-        TreeNode* curr = root;
-
-        while (curr) {
-
-            int data = curr->val;
-            if (data > val) {
-                if (curr->left)
-                    curr = curr->left;
-                else {
-                    curr->left = new TreeNode(val);
-                    return root;
-                }
-            } else if (data < val) {
-                if (curr->right)
-                    curr = curr->right;
-                else {
-                    curr->right = new TreeNode(val);
-                    return root;
-                }
-            }
-        }
+        if (root->val > val)
+            root->left = insertIntoBST(root->left, val);
+        else if (root->val < val)
+            root->right = insertIntoBST(root->right, val);
 
         return root;
     }
