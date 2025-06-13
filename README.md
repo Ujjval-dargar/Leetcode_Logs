@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0967-minimum-falling-path-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1036-rotting-oranges) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1293-three-consecutive-odds](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1325-path-with-maximum-probability) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1078-remove-outermost-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -600,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0402-remove-k-digits) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0943-sum-of-subarray-minimums) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -716,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -749,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -837,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Iterator
 |  |
 | ------- |
