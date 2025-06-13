@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0560-subarray-sum-equals-k) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-hand-of-straights](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0876-hand-of-straights) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0966-binary-subarrays-with-sum) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0455-assign-cookies) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0407-trapping-rain-water-ii) |
 | [0547-number-of-provinces](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -625,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -714,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0337-house-robber-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0450-delete-node-in-a-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -748,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0337-house-robber-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0450-delete-node-in-a-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -839,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0450-delete-node-in-a-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0789-kth-largest-element-in-a-stream) |
