@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0227-basic-calculator-ii) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -805,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0139-word-break) |
 ## Recursion
 |  |
