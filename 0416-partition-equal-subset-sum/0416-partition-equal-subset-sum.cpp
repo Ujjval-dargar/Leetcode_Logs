@@ -1,48 +1,32 @@
 class Solution {
 public:
-    bool targetSum(vector<int>& nums, int target) {
-        int n = nums.size();
+    bool f(vector<int>& arr, int k, int i, int curr, vector<vector<int>>& mem) {
+        if (curr == k)
+            return true;
 
-        vector<vector<bool>> dp(n + 1, vector<bool>(target + 1));
+        int n = arr.size();
+        if (i == n || curr > k)
+            return false;
 
-        for (int i = 1; i <= target; ++i) {
-            dp[0][i] = false;
-        }
-        for (int i = 0; i <= n; ++i) {
-            dp[i][0] = true;
-        }
+        if (mem[i][curr] != -1)
+            return mem[i][curr];
 
-        for (int i = 1; i <= n; ++i) {
-            for (int j = 1; j <= target; ++j) {
-                if (nums[i - 1] <= j) {
-                    dp[i][j] = dp[i-1][j - nums[i - 1]] || dp[i - 1][j];
-                } else {
-                    dp[i][j] = dp[i - 1][j];
-                }
-            }
-        }
+        if (f(arr, k, i + 1, curr + arr[i], mem))
+            return mem[i][curr] = true;
+        if (f(arr, k, i + 1, curr, mem))
+            return mem[i][curr] = true;
 
-        // for (int i = 0; i <= n; ++i) {
-        //     for (int j = 0; j <= target; ++j) {
-        //         cout << dp[i][j] << " ";
-        //     }
-        //     cout << endl;
-        // }
-
-        return dp[n][target];
+        return mem[i][curr] = false;
     }
 
     bool canPartition(vector<int>& nums) {
-        int sum = 0;
         int n = nums.size();
-        for (int i = 0; i < n; ++i) {
-            sum += nums[i];
-        }
+        int sum = accumulate(nums.begin(), nums.end(), 0);
 
-        if (sum % 2 == 1)
+        if (sum % 2)
             return false;
 
-        int target = sum / 2;
-        return targetSum(nums, target);
+        vector<vector<int>> mem(n, vector<int>(sum / 2, -1));
+        return f(nums, sum / 2, 0, 0, mem);
     }
 };
