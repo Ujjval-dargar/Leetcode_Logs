@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3444-find-the-number-of-good-pairs-ii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3444-find-the-number-of-good-pairs-ii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3429-special-array-i) |
 | [3430-count-days-without-meetings](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3444-find-the-number-of-good-pairs-ii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3444-find-the-number-of-good-pairs-ii) |
 | [3463-alternating-groups-i](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3463-alternating-groups-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3483-alternating-groups-ii) |
