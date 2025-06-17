@@ -17,12 +17,22 @@ public:
                                     f(arr, k, i + 1, curr + arr[i], mem, sum);
     }
 
-    int findTargetSumWays(vector<int>& nums, int target) {
+    int findTargetSumWays(vector<int>& arr, int k) {
 
-        int n = nums.size();
-        int sum = accumulate(nums.begin(), nums.end(), 0);
+        int n = arr.size();
+        int sum = accumulate(arr.begin(), arr.end(), 0);
+        int offset = 2 * sum;
 
-        vector<vector<int>> mem(n, vector<int>(2 * sum + 1, -1));
-        return f(nums, target, 0, 0, mem, sum);
+        vector<vector<int>> mem(n + 1, vector<int>(2 * sum + 1 + offset, 0));
+        mem[n][k + offset] = 1;
+
+        for (int i = n - 1; i >= 0; --i) {
+            for (int curr = -sum; curr <= sum; ++curr) {
+                mem[i][curr + offset] = mem[i + 1][curr - arr[i] + offset] +
+                                        mem[i + 1][curr + arr[i] + offset];
+            }
+        }
+
+        return mem[0][offset];
     }
 };
