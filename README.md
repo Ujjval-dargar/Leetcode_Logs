@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0516-longest-palindromic-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0678-valid-parenthesis-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1078-remove-outermost-parentheses) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0518-coin-change-ii) |
+| [0583-delete-operation-for-two-strings](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0583-delete-operation-for-two-strings) |
 | [0650-2-keys-keyboard](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0650-2-keys-keyboard) |
 | [0678-valid-parenthesis-string](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0678-valid-parenthesis-string) |
 | [0806-domino-and-tromino-tiling](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0806-domino-and-tromino-tiling) |
