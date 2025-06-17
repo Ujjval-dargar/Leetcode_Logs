@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0213-house-robber-ii) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0215-kth-largest-element-in-an-array) |
 | [0220-contains-duplicate-iii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0238-product-of-array-except-self) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0215-kth-largest-element-in-an-array) |
 | [0220-contains-duplicate-iii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0242-valid-anagram) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0191-number-of-1-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0493-reverse-pairs) |
 ## Dynamic Programming
 |  |
@@ -616,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0239-sliding-window-maximum) |
 | [0407-trapping-rain-water-ii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0451-sort-characters-by-frequency) |
@@ -895,4 +899,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0173-binary-search-tree-iterator) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
