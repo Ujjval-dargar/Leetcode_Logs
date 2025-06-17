@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0392-is-subsequence](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0516-longest-palindromic-subsequence) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0337-house-robber-iii) |
 | [0368-largest-divisible-subset](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0368-largest-divisible-subset) |
+| [0392-is-subsequence](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0494-target-sum) |
