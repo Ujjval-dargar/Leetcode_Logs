@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2509-minimize-xor](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2509-minimize-xor) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Counting
 |  |
 | ------- |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3227-find-missing-and-repeated-values) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3430-count-days-without-meetings) |
 ## Stack
