@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1078-remove-outermost-parentheses) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1160-letter-tile-possibilities) |
+| [1170-shortest-common-supersequence](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-domino-and-tromino-tiling](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0806-domino-and-tromino-tiling) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0967-minimum-falling-path-sum) |
+| [1170-shortest-common-supersequence](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3629-total-characters-in-string-after-transformations-i) |
