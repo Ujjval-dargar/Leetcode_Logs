@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0038-count-and-say) |
+| [0072-edit-distance](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0139-word-break) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0121-best-time-to-buy-and-sell-stock) |
