@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1646-kth-missing-positive-number) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1753-path-with-minimum-effort](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1753-path-with-minimum-effort) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1876-map-of-highest-peak](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1646-kth-missing-positive-number) |
+| [1753-path-with-minimum-effort](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1753-path-with-minimum-effort) |
 | [2047-find-a-peak-element-ii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2047-find-a-peak-element-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2665-minimum-time-to-repair-cars) |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0801-is-graph-bipartite) |
 | [1396-count-servers-that-communicate](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1396-count-servers-that-communicate) |
+| [1753-path-with-minimum-effort](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1753-path-with-minimum-effort) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2793-count-the-number-of-complete-components) |
@@ -583,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1396-count-servers-that-communicate) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1753-path-with-minimum-effort](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1876-map-of-highest-peak) |
 | [2047-find-a-peak-element-ii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2047-find-a-peak-element-ii) |
 | [2145-grid-game](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2145-grid-game) |
@@ -640,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1558-course-schedule-iv) |
+| [1753-path-with-minimum-effort](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1876-map-of-highest-peak) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -672,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1325-path-with-maximum-probability](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1325-path-with-maximum-probability) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1753-path-with-minimum-effort](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1753-path-with-minimum-effort) |
 | [2434-design-a-number-container-system](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -725,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1558-course-schedule-iv) |
+| [1753-path-with-minimum-effort](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1753-path-with-minimum-effort) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2764-maximum-number-of-fish-in-a-grid) |
