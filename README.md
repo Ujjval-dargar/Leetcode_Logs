@@ -529,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0806-domino-and-tromino-tiling](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0806-domino-and-tromino-tiling) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0967-minimum-falling-path-sum) |
@@ -636,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0801-is-graph-bipartite) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -658,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0801-is-graph-bipartite) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0820-find-eventual-safe-states) |
 | [1325-path-with-maximum-probability](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1325-path-with-maximum-probability) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -675,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0451-sort-characters-by-frequency) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1325-path-with-maximum-probability) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1753-path-with-minimum-effort](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1753-path-with-minimum-effort) |
@@ -684,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1325-path-with-maximum-probability) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Monotonic Stack
@@ -724,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0801-is-graph-bipartite) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
