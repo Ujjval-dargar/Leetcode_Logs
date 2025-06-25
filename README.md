@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0854-making-a-large-island) |
 | [0876-hand-of-straights](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0876-hand-of-straights) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0792-binary-search) |
+| [0794-swim-in-rising-water](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0794-swim-in-rising-water) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0721-accounts-merge) |
+| [0794-swim-in-rising-water](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -594,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0854-making-a-large-island) |
 | [0967-minimum-falling-path-sum](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1036-rotting-oranges) |
@@ -651,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0820-find-eventual-safe-states) |
@@ -701,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0451-sort-characters-by-frequency) |
 | [0744-network-delay-time](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0794-swim-in-rising-water](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1325-path-with-maximum-probability) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -756,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0820-find-eventual-safe-states) |
