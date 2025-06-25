@@ -686,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0820-find-eventual-safe-states) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1300-critical-connections-in-a-network](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1300-critical-connections-in-a-network) |
 | [1325-path-with-maximum-probability](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1325-path-with-maximum-probability) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -771,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1300-critical-connections-in-a-network](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1300-critical-connections-in-a-network) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -1014,4 +1016,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0215-kth-largest-element-in-an-array) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
