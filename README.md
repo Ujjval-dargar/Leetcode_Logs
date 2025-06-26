@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1502-construct-k-palindrome-strings) |
+| [1508-longest-happy-prefix](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1508-longest-happy-prefix) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -1027,12 +1028,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0686-repeated-string-match) |
+| [1508-longest-happy-prefix](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1508-longest-happy-prefix) |
 ## Rolling Hash
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0214-shortest-palindrome) |
+| [1508-longest-happy-prefix](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1508-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0214-shortest-palindrome) |
+| [1508-longest-happy-prefix](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1508-longest-happy-prefix) |
 <!---LeetCode Topics End-->
