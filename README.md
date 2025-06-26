@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0205-isomorphic-strings) |
+| [0214-shortest-palindrome](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0214-shortest-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0257-binary-tree-paths) |
@@ -1024,5 +1025,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0686-repeated-string-match) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
