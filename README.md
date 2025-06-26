@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0678-valid-parenthesis-string) |
+| [0686-repeated-string-match](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0686-repeated-string-match) |
 | [0721-accounts-merge](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0721-accounts-merge) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1078-remove-outermost-parentheses) |
@@ -1020,4 +1021,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1300-critical-connections-in-a-network) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
