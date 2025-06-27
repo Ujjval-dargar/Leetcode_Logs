@@ -1,35 +1,25 @@
 class Solution {
 public:
-    bool isPal(string& s, int i, int j) {
-        while (i < j) {
-            if (s[i++] != s[j--])
-                return false;
+    int expand(string& s, int l, int r) {
+        int n = s.size();
+        int ans = 0;
+        while (l >= 0 && r < n && s[l] == s[r]) {
+            ans++;
+            l--;
+            r++;
         }
 
-        return true;
-    }
-
-    int f(string& s, int i, int j, vector<vector<int>> &mem) {
-
-        int n = s.size();
-        if (i >= n)
-            return 0;
-
-        if (j >= n)
-            return f(s, i + 1, i + 1, mem);
-
-        if (mem[i][j]!=-1) return mem[i][j];
-
-        int cnt = isPal(s, i, j) ? 1 : 0;
-
-        cnt += f(s, i, j + 1, mem);
-
-        return mem[i][j] = cnt;
+        return ans;
     }
 
     int countSubstrings(string s) {
         int n = s.size();
-        vector<vector<int>> mem(n + 1, vector<int>(n + 1, -1));
-        return f(s, 0, 0, mem);
+        int ans = 0;
+
+        for (int i = 0; i < n; ++i) {
+            ans += expand(s, i, i) + expand(s, i, i + 1);
+        }
+
+        return ans;
     }
 };
