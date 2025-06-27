@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1250-longest-common-subsequence) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1502-construct-k-palindrome-strings) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1197-parsing-a-boolean-expression) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3447-clear-digits](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3447-clear-digits) |
