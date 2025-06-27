@@ -686,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0854-making-a-large-island) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1036-rotting-oranges) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1396-count-servers-that-communicate) |
@@ -795,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1035-cousins-in-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1300-critical-connections-in-a-network](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1300-critical-connections-in-a-network) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -900,6 +902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1035-cousins-in-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -937,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1035-cousins-in-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
