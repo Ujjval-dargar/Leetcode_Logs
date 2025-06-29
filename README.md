@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0817-design-hashmap) |
 | [0876-hand-of-straights](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0876-hand-of-straights) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0451-sort-characters-by-frequency) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1364-tuple-with-same-product) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0943-sum-of-subarray-minimums) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0967-minimum-falling-path-sum) |
 | [0979-di-string-match](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0979-di-string-match) |
@@ -385,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0368-largest-divisible-subset) |
 | [0650-2-keys-keyboard](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0650-2-keys-keyboard) |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1477-product-of-the-last-k-numbers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -966,6 +970,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2610-closest-prime-numbers-in-range) |
 ## Sliding Window
 |  |
