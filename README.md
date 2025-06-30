@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0300-longest-increasing-subsequence) |
+| [0307-range-sum-query-mutable](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0368-largest-divisible-subset) |
@@ -831,12 +832,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1511-count-number-of-teams](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1511-count-number-of-teams) |
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1511-count-number-of-teams](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1511-count-number-of-teams) |
@@ -865,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0307-range-sum-query-mutable](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0307-range-sum-query-mutable) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0817-design-hashmap](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0817-design-hashmap) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
