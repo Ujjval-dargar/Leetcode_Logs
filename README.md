@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1502-construct-k-palindrome-strings) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2107-find-unique-binary-string) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1502-construct-k-palindrome-strings) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1511-count-number-of-teams](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1511-count-number-of-teams) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1646-kth-missing-positive-number) |
