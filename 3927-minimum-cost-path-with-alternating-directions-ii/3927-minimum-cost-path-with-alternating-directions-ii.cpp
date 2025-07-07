@@ -4,10 +4,10 @@ public:
         return (i >= 0 && j >= 0 && i < m && j < n);
     }
 
-    int time = 1;
     vector<vector<int>> dirn = {{0, 1}, {1, 0}};
 
-    long long f(int i, int j, vector<vector<int>>& wait, vector<vector<long long>> &mem) {
+    long long f(int i, int j, int time, vector<vector<int>>& wait,
+                vector<vector<vector<long long>>>& mem) {
 
         int m = wait.size();
         int n = wait[0].size();
@@ -16,33 +16,32 @@ public:
             return 0;
         }
 
-        if (mem[i][j]!=-1) return mem[i][j];
+        if (mem[i][j][time] != -1)
+            return mem[i][j][time];
 
         long long cost = LLONG_MAX;
 
-        if (time % 2) {
+        if (time) {
             for (int k = 0; k < 2; ++k) {
                 int ni = i + dirn[k][0];
                 int nj = j + dirn[k][1];
 
                 if (isValid(ni, nj, m, n)) {
-                    time++;
-                    cost = min(cost, (ni + 1) * (nj + 1) * 1LL + f(ni, nj, wait, mem));
-                    time--;
+                    cost = min(cost, (ni + 1) * (nj + 1) * 1LL +
+                                         f(ni, nj, !time, wait, mem));
                 }
             }
         } else {
-            time++;
-            cost = wait[i][j] + f(i, j, wait, mem);
-            time--;
+            cost = wait[i][j] + f(i, j, !time, wait, mem);
         }
 
-        return mem[i][j] = cost;
+        return mem[i][j][time] = cost;
     }
 
     long long minCost(int m, int n, vector<vector<int>>& waitCost) {
 
-        vector<vector<long long>> mem(m,vector<long long>(n,-1)); 
-        return 1 + f(0, 0, waitCost, mem);
+        vector<vector<vector<long long>>> mem(
+            m, vector<vector<long long>>(n, vector<long long>(2, -1)));
+        return 1 + f(0, 0, 1, waitCost, mem);
     }
 };
