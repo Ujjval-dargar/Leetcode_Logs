@@ -1,86 +1,52 @@
 class Solution {
 public:
-    bool isValid(int i, int j, int m, int n) {
-        return (i >= 0 && j >= 0 && i < m && j < n);
-    }
+    struct State {
+        long long cost;
+        int x, y, tmod;
 
-    vector<vector<int>> dirn = {{0, 1}, {1, 0}};
-
-    // long long f(int i, int j, int time, vector<vector<int>>& wait,
-    //             vector<vector<vector<long long>>>& mem) {
-
-    //     int m = wait.size();
-    //     int n = wait[0].size();
-
-    //     if (i == m - 1 && j == n - 1) {
-    //         return 0;
-    //     }
-
-    //     if (mem[i][j][time] != -1)
-    //         return mem[i][j][time];
-
-    //     long long cost = LLONG_MAX;
-
-    //     if (time) {
-    //         for (int k = 0; k < 2; ++k) {
-    //             int ni = i + dirn[k][0];
-    //             int nj = j + dirn[k][1];
-
-    //             if (isValid(ni, nj, m, n)) {
-    //                 cost = min(cost, (ni + 1) * (nj + 1) * 1LL +
-    //                                      f(ni, nj, !time, wait, mem));
-    //             }
-    //         }
-    //     } else {
-    //         cost = wait[i][j] + f(i, j, !time, wait, mem);
-    //     }
-
-    //     return mem[i][j][time] = cost;
-    // }
-
-    // long long minCost(int m, int n, vector<vector<int>>& waitCost) {
-
-    //     vector<vector<vector<long long>>> mem(
-    //         m, vector<vector<long long>>(n, vector<long long>(2, -1)));
-    //     return 1 + f(0, 0, 1, waitCost, mem);
-    // }
+        bool operator>(const State& other) const {
+            return cost > other.cost;
+        }
+    };
 
     long long minCost(int m, int n, vector<vector<int>>& waitCost) {
+        vector<vector<vector<long long>>> dist(m, vector<vector<long long>>(n, vector<long long>(2, LLONG_MAX)));
 
-        vector<vector<vector<long long>>> mem(
-            m, vector<vector<long long>>(n, vector<long long>(2, LLONG_MAX)));
+        priority_queue<State, vector<State>, greater<State>> pq;
 
-        for (int i = m - 1; i >= 0; --i) {
-            for (int j = n - 1; j >= 0; --j) {
-                for (int time = 1; time >= 0; --time) {
+        dist[0][0][1] = 1;  // Starting with time = 1, cost = (0+1)*(0+1)
+        pq.push({1, 0, 0, 1}); // cost, x, y, time_parity
 
-                    if (i == m - 1 && j == n - 1) {
-                        mem[i][j][time] = 0LL;
-                        continue;
-                    }
+        vector<pair<int, int>> dir = {{1, 0}, {0, 1}};  // Down, Right
 
-                    long long cost = LLONG_MAX;
+        while (!pq.empty()) {
+            auto [currCost, x, y, tmod] = pq.top(); pq.pop();
 
-                    if (time) {
-                        for (int k = 0; k < 2; ++k) {
-                            int ni = i + dirn[k][0];
-                            int nj = j + dirn[k][1];
+            if (x == m - 1 && y == n - 1)
+                return currCost;
 
-                            if (isValid(ni, nj, m, n)) {
-                                cost =
-                                    min(cost, (ni + 1) * (nj + 1) * 1LL +
-                                                  mem[ni][nj][!time]);
-                            }
+            if (dist[x][y][tmod] < currCost) continue;
+
+            if (tmod == 1) { // Move time
+                for (auto [dx, dy] : dir) {
+                    int nx = x + dx, ny = y + dy;
+                    if (nx < m && ny < n) {
+                        long long moveCost = 1LL * (nx + 1) * (ny + 1);
+                        if (currCost + moveCost < dist[nx][ny][0]) {
+                            dist[nx][ny][0] = currCost + moveCost;
+                            pq.push({dist[nx][ny][0], nx, ny, 0});
                         }
-                    } else {
-                        cost = waitCost[i][j] + mem[i][j][!time];
                     }
-
-                    mem[i][j][time] = cost;
+                }
+            } else { // Wait time
+                long long wait = waitCost[x][y];
+                if (currCost + wait < dist[x][y][1]) {
+                    dist[x][y][1] = currCost + wait;
+                    pq.push({dist[x][y][1], x, y, 1});
                 }
             }
         }
 
-        return 1 + mem[0][0][1];
+        return -1; // Should never reach here
     }
 };
