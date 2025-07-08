@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0134-gas-station) |
+| [0334-increasing-triplet-subsequence](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0455-assign-cookies) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0322-coin-change) |
+| [0334-increasing-triplet-subsequence](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0334-increasing-triplet-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0410-split-array-largest-sum) |
