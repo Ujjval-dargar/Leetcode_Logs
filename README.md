@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String
 |  |
 | ------- |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2509-minimize-xor](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2509-minimize-xor) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Counting
 |  |
 | ------- |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3708-zigzag-grid-traversal-with-skip) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Two Pointers
 |  |
 | ------- |
