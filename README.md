@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1396-count-servers-that-communicate) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1435-xor-queries-of-a-subarray) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1477-product-of-the-last-k-numbers) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0650-2-keys-keyboard) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1477-product-of-the-last-k-numbers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1693-sum-of-all-odd-length-subarrays) |
