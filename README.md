@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0794-swim-in-rising-water) |
 | [0817-design-hashmap](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0817-design-hashmap) |
+| [0830-largest-triangle-area](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0854-making-a-large-island) |
 | [0876-hand-of-straights](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0876-hand-of-straights) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0368-largest-divisible-subset) |
 | [0650-2-keys-keyboard](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0650-2-keys-keyboard) |
+| [0830-largest-triangle-area](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0830-largest-triangle-area) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -1138,4 +1140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1137-height-checker) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
