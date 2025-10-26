@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0410-split-array-largest-sum) |
+| [0414-third-maximum-number](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0416-partition-equal-subset-sum) |
 | [0436-find-right-interval](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0436-find-right-interval) |
 | [0455-assign-cookies](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0455-assign-cookies) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0368-largest-divisible-subset) |
+| [0414-third-maximum-number](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0436-find-right-interval) |
 | [0451-sort-characters-by-frequency](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0455-assign-cookies) |
