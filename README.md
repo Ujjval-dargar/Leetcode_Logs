@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2509-minimize-xor](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2509-minimize-xor) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Counting
 |  |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2690-house-robber-iv) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3643-zero-array-transformation-ii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3643-zero-array-transformation-ii) |
 ## Bit Manipulation
 |  |
@@ -1147,4 +1149,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0830-largest-triangle-area) |
+## Union-Find
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Graph Theory
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
