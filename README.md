@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2509-minimize-xor](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2509-minimize-xor) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Counting
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3227-find-missing-and-repeated-values) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3321-type-of-triangle](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3321-type-of-triangle) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3227-find-missing-and-repeated-values) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3321-type-of-triangle](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3321-type-of-triangle) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Binary Search
@@ -474,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2690-house-robber-iv) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3643-zero-array-transformation-ii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3643-zero-array-transformation-ii) |
 ## Bit Manipulation
@@ -800,6 +804,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2434-design-a-number-container-system](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Shortest Path
 |  |
