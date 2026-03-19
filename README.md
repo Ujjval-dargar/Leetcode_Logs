@@ -1088,6 +1088,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0023-merge-k-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0141-linked-list-cycle) |
