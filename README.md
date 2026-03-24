@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0794-swim-in-rising-water) |
 | [0817-design-hashmap](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0817-design-hashmap) |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0402-remove-k-digits) |
 | [0636-exclusive-time-of-functions](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0636-exclusive-time-of-functions) |
 | [0678-valid-parenthesis-string](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0678-valid-parenthesis-string) |
+| [0739-daily-temperatures](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0739-daily-temperatures) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -828,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0402-remove-k-digits) |
+| [0739-daily-temperatures](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0739-daily-temperatures) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
