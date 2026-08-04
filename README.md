@@ -422,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0368-largest-divisible-subset) |
@@ -650,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0289-game-of-life) |
 | [0657-robot-return-to-origin](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0657-robot-return-to-origin) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -1035,6 +1037,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0258-add-digits) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2610-closest-prime-numbers-in-range) |
 ## Sliding Window
