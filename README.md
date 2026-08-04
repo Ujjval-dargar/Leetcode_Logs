@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0392-is-subsequence](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0402-remove-k-digits) |
+| [0415-add-strings](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0516-longest-palindromic-subsequence) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0368-largest-divisible-subset) |
+| [0415-add-strings](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0415-add-strings) |
 | [0650-2-keys-keyboard](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0650-2-keys-keyboard) |
 | [0830-largest-triangle-area](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0830-largest-triangle-area) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -653,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0289-game-of-life) |
+| [0415-add-strings](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0657-robot-return-to-origin) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2048-build-array-from-permutation) |
