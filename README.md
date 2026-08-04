@@ -446,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-count-good-numbers](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2448-count-number-of-bad-pairs](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2448-count-number-of-bad-pairs) |
+| [2544-alternating-digit-sum](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2544-alternating-digit-sum) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2610-closest-prime-numbers-in-range) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/2998-count-symmetric-integers) |
