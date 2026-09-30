@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-di-string-match](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0979-di-string-match) |
 | [1078-remove-outermost-parentheses](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1078-remove-outermost-parentheses) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1160-letter-tile-possibilities](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1160-letter-tile-possibilities) |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1078-remove-outermost-parentheses) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1197-parsing-a-boolean-expression) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -1203,4 +1205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
