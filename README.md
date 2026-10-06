@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0686-repeated-string-match) |
 | [0721-accounts-merge](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0721-accounts-merge) |
+| [0856-score-of-parentheses](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0856-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0979-di-string-match) |
 | [1078-remove-outermost-parentheses](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1078-remove-outermost-parentheses) |
@@ -573,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0636-exclusive-time-of-functions) |
 | [0678-valid-parenthesis-string](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0856-score-of-parentheses) |
 | [0943-sum-of-subarray-minimums](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -1210,5 +1212,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ujjval-dargar/Leetcode_Logs/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
